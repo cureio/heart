@@ -1,6 +1,10 @@
-#include<unistd.h>
-
 #include <iostream>
+
+#include <ctime>
+
+#include <cstdlib>
+
+#include <unistd.h>
 
 int receive();
 
