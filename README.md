@@ -17,13 +17,13 @@ Once inside your projects directory perform either of the following ...
 Use [ cURL](https://curl.haxx.se/) to install the library.
 
 ```bash
-curl -O https://raw.githubusercontent.com/cureio/heart/master/src/C++/CureIOHR.h
+curl -O https://raw.githubusercontent.com/cureio/heart/master/src/c++/CureIOHR.h
 ```
 
 Use [ Wget](https://www.gnu.org/software/wget/) to install the library.
 
 ```bash
-wget https://raw.githubusercontent.com/cureio/heart/master/src/C++/CureIOHR.h
+wget https://raw.githubusercontent.com/cureio/heart/master/src/c++/CureIOHR.h
 ```
 
 ## Usage
