@@ -89,7 +89,7 @@ Pull requests are welcome and greatly appreciated. If you need help open an issu
 
 ## Contributors
  - [Sam Poder](https://github.com/sampoder)
- - Arsh Shrivastava
+ - [Arsh Shrivastava] (https://github.com/Arshshrivastava)
  - Neil Ghosh
 
 Want to be on the list? When ever you make your first pull request add your name in. 
