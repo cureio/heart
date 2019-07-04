@@ -12,7 +12,7 @@ int irregularHeartRateCheck(int heartrate, int userBirth) {
 
   int test = 220 - 67 * 1.2;
 
-  if (((220 - 67) * 1.2) < heartrate) {
+  if (((220 - userBirth * 1.2) < heartrate) {
 
     if ((220 - userBirth * 1.2) < heartrate) {
 
