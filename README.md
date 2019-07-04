@@ -95,7 +95,7 @@ Pull requests are welcome and greatly appreciated. If you need help open an issu
 Want to be on the list? When ever you make your first pull request add your name in. 
 
 ## About CureIO
-More Info Coming Soon
+More Coming Soon
 
 ## Licensed Under The MIT License
 [View License](https://github.com/cureio/heart/blob/master/LICENSE)
