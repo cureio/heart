@@ -1,3 +1,4 @@
+
 # Heart Monitor Library by CureIO
 
 ![C++](https://img.shields.io/badge/Built%20For%3A-C%2B%2B-blue.svg?style=for-the-badge&logo=cplusplus)
@@ -85,6 +86,16 @@ int receive(){
 Pull requests are welcome and greatly appreciated. If you need help open an issue and we will provide support ASAP. If you need any ideas on what to contribute check the issues tab! Thanks in advance for your support!
 
 ![](https://s3.amazonaws.com/one_org_international/international/media/international/2015/11/06135444/tank-you-gif.gif)
+
+## Contributors
+ - [Sam Poder](https://github.com/sampoder)
+ - Arsh Shrivastava
+ - Neil Ghosh
+
+Want to be on the list? When ever you make your first pull request add your name in. 
+
+## About CureIO
+More Info Coming Soon
 
 ## Licensed Under The MIT License
 [View License](https://github.com/cureio/heart/blob/master/LICENSE)
