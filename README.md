@@ -1,5 +1,5 @@
 
-# Heart Monitor Library by CureIO
+# Heart Monitor Library by CureIO 
 
 ![C++](https://img.shields.io/badge/Built%20For%3A-C%2B%2B-blue.svg?style=for-the-badge&logo=cplusplus)
 ![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)
