@@ -35,7 +35,7 @@ int irregularHeartRateCheck(int heartrate, int userBirth) {
           return false;
 
         }
-      } else if (220 - userBirth * 0.8) {
+      } else {
 
         return false;
 
