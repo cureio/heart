@@ -1,8 +1,10 @@
 import time
 import receive
 
-def irregularHeartRateCheck(heartrate, userBirth):
-
+def irregularHeartRateCheck(userBirth):
+  
+  heartrate = receive.r()
+  
   if ((220 - userBirth) * 1.2) < heartrate:
 
     time.sleep(30)
@@ -30,7 +32,9 @@ def irregularHeartRateCheck(heartrate, userBirth):
 
     return False
 
-def riskCheck(heartrate, userBirth):
+def riskCheck(userBirth):
+  
+  heartrate = receive.r()
 
   if ((220 - userBirth) * 1.0) < heartrate:
 
