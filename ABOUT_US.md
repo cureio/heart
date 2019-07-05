@@ -15,3 +15,5 @@ Over the next few months, we would continue to develop Cure Band and eventually 
 
 However, one thing became obvious. We couldn't do it alone. So we decided that we should make our code open source. By making our code open source it would be more accessible to the world and not only those who can afford it. As our first project we would release our Cure Band code as the cureio/heart repository. We are excited to see what this journey into the world of open source brings. 
 
+![](https://media1.tenor.com/images/e6cec20e8f38ff57e9f52cc8c3cfe6e1/tenor.gif)
+
