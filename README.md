@@ -11,7 +11,7 @@
 
 
 
-## Installation
+## C++ Installation
 
 Once inside your projects directory perform either of the following ...
 
@@ -25,6 +25,22 @@ Use [ Wget](https://www.gnu.org/software/wget/) to install the library.
 
 ```bash
 wget https://raw.githubusercontent.com/cureio/heart/master/src/c++/CureIOHR.h
+```
+
+## Python Installation
+
+Once inside your projects directory perform either of the following ...
+
+Use [ cURL](https://curl.haxx.se/) to install the library.
+
+```bash
+curl -O https://raw.githubusercontent.com/cureio/heart/master/src/python/CureIOHR.py -O https://raw.githubusercontent.com/cureio/heart/master/src/python/Receive.py
+```
+
+Use [ Wget](https://www.gnu.org/software/wget/) to install the library.
+
+```bash
+wget https://raw.githubusercontent.com/cureio/heart/master/src/python/CureIOHR.py  https://raw.githubusercontent.com/cureio/heart/master/src/python/Receive.py
 ```
 
 ## Usage
