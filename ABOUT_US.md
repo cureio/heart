@@ -7,7 +7,7 @@ CureIO began in May of 2018, as an idea for the Google Science Fair. Our idea wa
 
 Even though the project didn't eventually get submitted to the Google Science Fair, the team found a different competition called Young Founders Summit. The competition was more business focused which was a new area for the team to focus on.
 
-<img src="https://lh3.googleusercontent.com/QZ264wk8_Kk-064ZsNtEEv7JdE1jgGQ7GmIgP00PN8v0VrUqNKAdh48deWZs0PYbXZvknjotmJbI =250x" width="50%">
+<img src="https://lh3.googleusercontent.com/QZ264wk8_Kk-064ZsNtEEv7JdE1jgGQ7GmIgP00PN8v0VrUqNKAdh48deWZs0PYbXZvknjotmJbI" width="50%">
 
 We all had get on our sixth gear to complete Cure Band whilst getting ready for the competition as well. We were happy to complete a working prototype of Cure Band for the Finals. During those Finals we were chosen as the winner of the inaugural Young Founders Summit 2019.
 
