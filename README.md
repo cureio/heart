@@ -95,7 +95,9 @@ Pull requests are welcome and greatly appreciated. If you need help open an issu
 Want to be on the list? When ever you make your first pull request add your name in. 
 
 ## About CureIO
-More Info Coming Soon
+CureIO is an open source organization that creates code to better the lives of the elderly population. We were started by three passionate teenagers; Sam Poder, Arsh Shrivastava and Neil Ghosh.
+
+[Read More](https://github.com/cureio/heart/blob/master/LICENSE)
 
 ## Licensed Under The MIT License
 [View License](https://github.com/cureio/heart/blob/master/LICENSE)
