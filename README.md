@@ -45,7 +45,7 @@ wget https://raw.githubusercontent.com/cureio/heart/master/src/python/CureIOHR.p
 
 ## C++ Usage
 
-```c+
+```cpp
 #include <CureIOHR.h> 
 
 // Link Library
