@@ -43,7 +43,7 @@ Use [ Wget](https://www.gnu.org/software/wget/) to install the library.
 wget https://raw.githubusercontent.com/cureio/heart/master/src/python/CureIOHR.py  https://raw.githubusercontent.com/cureio/heart/master/src/python/Receive.py
 ```
 
-## Usage
+## C++ Usage
 
 ```c+
 #include <CureIOHR.h> 
