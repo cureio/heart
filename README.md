@@ -2,6 +2,8 @@
 # Heart Monitor Library by CureIO
 
 ![C++](https://img.shields.io/badge/Built%20For%3A-C%2B%2B-blue.svg?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Built%20For-Python%20(Soon)-yellow.svg)
+
 ![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)
 
 
