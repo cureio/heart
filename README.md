@@ -98,6 +98,63 @@ int receive(){
 }
 
 ```
+## Python Usage
+
+### Main File
+
+```python
+
+import CureIOHR
+
+CureIOHR.irregularHeartRateCheck(56) 
+
+// Function: Attempts to find an irregular heart rate if the user is 56. 
+// Return Style: Boolean (True or False)
+// Requires: The Receive.py File Be Adapted
+// Variables: The number 56 can be changed to the user's real age
+
+CureIOHR.riskCheck(56)
+
+// Function: Finds if the user's heart is at risk
+// Return Style: Boolean (True or False)
+// Requires: The Receive.py File Be Adapted
+// Variables: The number 56 can be changed to the user's real age
+
+CureIOHR.maxHeartRate(56)
+
+// Function: Finds the maximum heart rate
+// Return Style: Integer
+// Requires: None
+// Variables: The number 56 can be changed to the user's real age
+
+CureIOHR.minTargetHeartRate(56)
+
+// Function: Finds the minimum target heart rate
+// Return Style: Integer
+// Requires: None
+// Variables: The number 56 can be changed to the user's real age
+
+CureIOHR.maxTargetHeartRate(56)
+
+// Function: Finds the maximum target heart rate
+// Return Style: Integer
+// Requires: None
+// Variables: The number 56 can be changed to the user's real age
+
+```
+
+### Recieve.py File
+
+```python
+
+def r():
+
+  heartrate = # Place Specfic Code On How to Get Heart Rate For Your Certain Device
+  
+  return heartrate
+
+```
+
 #### More Examples Coming Soon
 ## Contributing
 Pull requests are welcome and greatly appreciated. If you need help open an issue and we will provide support ASAP. If you need any ideas on what to contribute check the issues tab! Thanks in advance for your support!
