@@ -3,7 +3,7 @@ CureIO is an open source organization that creates code to better the lives of t
 
 CureIO began in May of 2018, as an idea for the Google Science Fair. Our idea was named Cure Band,  a device which detects irregular heart rate, alert people around you, a relative and as well as emergency services. We were inspired to make this device as Arsh's grandfather suffered multiple cardiac arrests at home. Instead of waiting for a solution for this problem we decided to develop it. 
 
-<img src="https://lh3.googleusercontent.com/eZXaMAQ0IYIFaOokZAIjW-w9vglqlg04mHwuNV2G4dZcLRPZSLSPG2hYd5kCk82VDKLXCeDJwU3uEzFqZoxvdpwX1f1uDnMM4EGnihl1Rkqvb-Qyih4wgjaKYQtKTvJ7G3Ot20J19FjeCZOEVMKCXCplDOUf1htAgTOOijmXqvf8q9pASJkyHvhwW9rjl930-TzjY6kkgZ6sm0NRY2ytbmHtiNsTb8-lt2GwGILS4agrIXI3x_gTkLbH07bXHf1zM08Unv-40M2FcsZPUu1yukCiYObWrWVOJJ0SY2IPg50KKrH20wJvOil_5n4tB67JH42k9lT0AkUaHZBodxq_jIo5kCYTOS9E_2Dp66o8olmcOGnMAoWEaAB3N1bWYmP6qmlEh_ONG21XIubq4lcZ93KOEGeXU3ZWQRrgXjU5MvGkVHbt_ZnZTMlNRWQeBy5lvcJw4JiUJMmuNIcTaOOHcgr_p_elwmCQr6TSgonvxVHOJtK4JTx2g3GTubI_eWaLeanbUMixuZG4QG8mtt2xFlHGkJ0OnlPT4XRh-7zFf2RUvnD88mIw60LblGsb70KvhEBj5-GdAI0_W6z9jBp4BTTNevGBbjgRtO31gnmAFHy75hG3pHOdQtpqgPGQ4rLI7L80n-d5hpzlhGoHIHS3Dq1PYMq9ZzU=w1111-h833-no" width="50%">
+<img src="https://lh3.googleusercontent.com/SXSi7DCledE7HrkjTXiTXPhgJJ_te8-4cUykJo0RWkLdt7iSBIg-Zp6R5Sg3efhW8ByCC_xw2DPl" width="50%">
 
 Even though the project didn't eventually get submitted to the Google Science Fair, the team found a different competition called Young Founders Summit. The competition was more business focused which was a new area for the team to focus on.
 
