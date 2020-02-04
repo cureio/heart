@@ -1,5 +1,5 @@
 ## About Us
-CureIO is an open source organization that creates code to better the lives of the elderly population. We were started by three passionate teenagers; Sam Poder, Arsh Shrivastava and Neil Ghosh. 
+CureIO is an open source organization that creates code to better the lives of the elderly population. We were started by three passionate teenagers; [Sam Poder](https://github.com/sampoder), [Arsh Shrivastava](https://github.com/Arshshrivastava) and [Neil Ghosh](https://github.com/ghoshneil2005). 
 
 CureIO began in May of 2018, as an idea for the Google Science Fair. Our idea was named Cure Band,  a device which detects irregular heart rate, alert people around you, a relative and as well as emergency services. We were inspired to make this device as Arsh's grandfather suffered multiple cardiac arrests at home. Instead of waiting for a solution for this problem we decided to develop it. 
 
