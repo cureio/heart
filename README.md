@@ -165,7 +165,7 @@ Pull requests are welcome and greatly appreciated. If you need help open an issu
 ## Contributors
  - [Sam Poder](https://github.com/sampoder)
  - [Arsh Shrivastava](https://github.com/Arshshrivastava)
- - Neil Ghosh
+ - [Neil Ghosh](https://github.com/ghoshneil2005)
 
 Want to be on the list? When ever you make your first pull request add your name in. 
 
